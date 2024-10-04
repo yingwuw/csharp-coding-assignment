@@ -1,4 +1,4 @@
-This was a take home test from a company. The soltuion provided in the end failed the test, however, I never got chances to understand where the soltuion can be improved. So if you have any suggesions, feel free to let me know.
+This was a take home test from a company. The soltuion provided in the end failed the test, however, I never got a chance to understand what is wrong and what can be improved. So if you have any suggesions, feel free to let me know.
 
 # Software Engineer Coding Assignment
 
