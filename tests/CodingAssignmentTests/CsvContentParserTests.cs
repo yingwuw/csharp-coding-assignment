@@ -21,7 +21,7 @@ public class CsvContentParserTests
         //however, my computer csv files new-line reads as "\n"
         var content = "a,b\n" + "c,d\n";
         var dataList = _sut.Parse(content).ToList();
-        Assert.That(dataList, Is.Not.EqualTo(new List<Data>
+        Assert.That(dataList, Is.EqualTo(new List<Data>
         {
             new("a", "b"),
             new("c", "d")
