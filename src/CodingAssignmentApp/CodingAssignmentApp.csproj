@@ -6,7 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>CodingAssignment</RootNamespace>
-        <Platforms>AnyCPU</Platforms>
+        <Platforms>x64;x86</Platforms>
     </PropertyGroup>
 
     <ItemGroup>
